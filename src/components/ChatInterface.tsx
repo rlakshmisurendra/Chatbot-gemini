@@ -96,10 +96,7 @@ Feel free to ask me anything about C programming!`,
   };
 
   const quickPrompts = [
-    "Explain pointers in C",
-    "How do arrays work?",
-    "Show me a simple C program",
-    "What are functions in C?"
+    
   ];
 
   return (

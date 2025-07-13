@@ -46,10 +46,10 @@ function AppContent() {
           </div>
           <div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              C Programming Assistant
+              C4U
             </h1>
             <p className="text-sm" style={{ color: theme.colors.textSecondary }}>
-              Your AI-powered C programming tutor
+              Your AI-powered C programming Assistant
             </p>
           </div>
         </div>
